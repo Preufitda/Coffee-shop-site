@@ -1,0 +1,31 @@
+body {
+    background-color: lightblue;
+    font-family: sans-serif;
+}
+
+h1 {
+    font-size:35px;
+    text-align: center;
+}
+
+nav a {
+    text-decoration: none;
+    border: 3px solid whitesmoke;
+    border-radius: 5px;
+    margin: 190px;
+    padding: 10px;
+    color: white;
+}
+
+header h2 {
+    text-size-adjust: 25px;
+}
+
+footer {
+    background-color: black;
+    color: white;
+}
+
+footer b {
+    color: white;
+}
